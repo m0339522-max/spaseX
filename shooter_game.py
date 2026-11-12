@@ -136,4 +136,3 @@ while run:
         isuzu.update()
     display.update()
     clock.tick(40)
-/Users/mac/VSCode/code-portable-data/extensions/algovscode.algoritmika-python-20250904.95201.0/data/student/70130557/657891
