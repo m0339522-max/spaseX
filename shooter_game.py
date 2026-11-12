@@ -1,5 +1,3 @@
-#Создай собственный Шутер!
-#len ФУНКЦИЯ ДЛЯ ИЗМЕРЕНИЯ ДЛИННЫ СПИСКА
 from pygame import *
 from random import randint
 
